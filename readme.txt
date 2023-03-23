@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# 
-
-## 
-=======
 EAT SAFE,LOVE
 
 On this challenge I used MongoDB database program to make an exploratory analysis of the UK Food Standars Agency's food hygiene rating with Python. For this, the magazine, "Eat safe, Love", asked to analyze the data in order to help their journalists. 
@@ -16,4 +11,3 @@ UK Food Standards AgencyLinks to an external site. (2022). UK food hygiene ratin
 Accessed Sept 9, 2022 and Sept 12, 2022 with the establishment settings as follows: longitude=51.5072, latitude=-0.1276, maxdistancelimit=4567, pagesize=10000, sortoptionkey=distance, pagenumber=(1,2,3,4,5,6,7,8).
 
  2023 edX Boot Camps LLC
->>>>>>> bcc88a8b2596f61cd598349fa7b8f1f15ac1a902
